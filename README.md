@@ -17,4 +17,4 @@ We created an organisation using the [Creating a new organization from scratch](
 [GitHub Pages](https://pages.github.com/) provide several themes https://pages.github.com/themes/ and even more themes are available, for example, at [https://jekyllthemes.io/free](https://jekyllthemes.io/free).
 
 
-### Checking spelling
+
