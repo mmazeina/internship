@@ -1,12 +1,18 @@
 # Internship
 
+The internship is done at the Luxembourgh Centre for Systems Biomedicine of the University of Luxembourg.
+
 The task for this internship is to test the [GitHub Pages](https://pages.github.com/) as an environment for creating minimalistic scientific project websites.  
 
 The advantages of using GitHub for creating websites:
 * Many pre-developed templates are available and a new website can be quickly created with minimal effort;
 * Everything can be done online on GitHub without installing any web development software.
 
-The results are available at [https://when-you-are-in-a-new-place.github.io](https://when-you-are-in-a-new-place.github.io/). The corresponding GitHub repository where we worked on the website is at [https://github.com/when-you-are-in-a-new-place/when-you-are-in-a-new-place.github.io](https://github.com/when-you-are-in-a-new-place/when-you-are-in-a-new-place.github.io).
+### Availability
+
+The results are available at [https://when-you-are-in-a-new-place.github.io](https://when-you-are-in-a-new-place.github.io/).  
+
+The corresponding GitHub repository where we worked on the website is at [https://github.com/when-you-are-in-a-new-place/when-you-are-in-a-new-place.github.io](https://github.com/when-you-are-in-a-new-place/when-you-are-in-a-new-place.github.io).
 
 ### Step 1: Creating a free GitHub account
 
@@ -65,7 +71,7 @@ After downloading the favicon package, we took the favicon.ico file and put it i
 
 ### Step 9. Collaborative editing in Google Docs
 
-The report was prepared in Google Docs and copied in the README file.
+The report was prepared in Google Docs and copied in the `README.md` file.
 
 ### New skills
 | Progress | Skill | Level |
