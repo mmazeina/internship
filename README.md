@@ -72,4 +72,3 @@ The report was prepared in Google Docs and copied in the README file.
 | --- | --- | --- |
 | ★☆☆☆☆ | GitHub Pages | Beginner |
 | ★☆☆☆☆ | Markdown | Beginner |
-| ★☆☆☆☆ | Googe Docs | Beginner |
